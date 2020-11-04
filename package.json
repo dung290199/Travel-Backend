@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/dung290199/Travel-Backend.git",
-  "author": "DangTrung24hdev <trungdang.24hdev@gmail.com>",
+  "author": "DangTrung <pumaover@gmail.com>",
   "license": "MIT",
   "scripts": {
     "start": "node server",
